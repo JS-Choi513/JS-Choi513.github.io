@@ -43,11 +43,11 @@ yat:
   date_format: "%Y-%m-%d %H:%M"
 
 # Page default value
- defaults:
-   home:
-     heading: "TIL Archive"
-     subheading: "Your awesome subheading"
-     banner: "Your image url"
+defaults:
+  home:
+    heading: "TIL Archive"
+    subheading: "Your awesome subheading"
+    banner: "Your image url"
 
 banner:
   video: /assets/images/banners/pexels-changhee-kim-9241317.mp4
@@ -60,7 +60,7 @@ banner:
   min_height: "48vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: null"
   subheading_style: "color: gold"
-       
+
 # If you want more debug log, you can set true
 # debug: false
 
