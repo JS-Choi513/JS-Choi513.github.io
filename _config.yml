@@ -48,6 +48,19 @@ yat:
      heading: "TIL Archive"
      subheading: "Your awesome subheading"
      banner: "Your image url"
+
+banner:
+  video: /assets/images/banners/pexels-changhee-kim-9241317.mp4
+  loop: true
+  volume: 0.0
+  start_at: 0.5
+  opacity: 0.418
+  background: "#000"
+  height: "50vh"
+  min_height: "48vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: null"
+  subheading_style: "color: gold"
+       
 # If you want more debug log, you can set true
 # debug: false
 
