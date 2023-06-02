@@ -1,7 +1,6 @@
 ---
 layout: about
 title: About
-permalink: /about/
 ---
 
 ## Welcome :bow:
