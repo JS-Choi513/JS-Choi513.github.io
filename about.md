@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-## Welcome :bow:
+## Welcome
 
 Somehow, someway you've found yourself here. 
 
@@ -11,7 +11,7 @@ Where is here?
 
 This is personal blog. Probably unfit for consumption, but don't let that stop you.
 
-## About me :eyes:
+## About me
 I am a M.S. course student studying computer engineering in South Korea.
 
 Currently interested in **computer systems, machine learning acceleration, and cloud computing**.
@@ -20,7 +20,7 @@ Feel free to check out my C.V. and social profiles for more details.
 
 Yes. My name is Jinseo Choi.
 
-## You can find... :mag_right:
+## You can find... 
 
 
 Some mess of my thoughts and trace of struggle about my works.
@@ -40,7 +40,7 @@ google it and see where it leads.
 
 **Of course, pointing out any misinformation about the post is welecome anytime!**
 
-## Contact :satellite:
+## Contact
 
 TBD
 

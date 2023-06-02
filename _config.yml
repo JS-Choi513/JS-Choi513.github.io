@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: J. Choi
+title: Jinseo Choi
 email: tjwjs513@gmail.com
 author: Jinseo Choi
 copyright: Copyright © 1970-2010
@@ -45,12 +45,12 @@ yat:
 # Page default value
 defaults:
   home:
-    heading: "TIL Archive"
-    subheading: "Your awesome subheading"
+    heading: "Choi's Tech blog"
+    subheading: "사실 그냥 이것저것 올립니다."
     banner: "Your image url"
 
 banner:
-  video: /assets/images/banners/pexels-changhee-kim-9241317.mp4
+  video: /assets/images/banners/fogy_grass.mp4
   loop: true
   volume: 0.0
   start_at: 0.5
@@ -136,7 +136,7 @@ lang: "ko"  # default lang is en
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "auto"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
